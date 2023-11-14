@@ -1,0 +1,305 @@
+today what I'm gonna do is help you
+understand HIPAA and how the HIPAA
+privacy rules affect your physical
+therapy business so my name is dr. Aaron
+lab our I am a physical therapist I own
+a cash practice here in Greensboro and I
+am a physical therapy business coach I
+help physical therapists scale their
+time income and impact and one of the
+biggest questions I get is Aaron is my
+cash practice whereas my business
+covered by HIPAA or what HIPAA privacy
+documents do I need number one I want to
+let you know I'm not a lawyer so this
+isn't legal advice and you should
+probably work with a lawyer to make sure
+you have the correct HIPAA legal
+documents for your business but what I
+want to do is help you understand what
+it is so you can go in to a conversation
+with a lawyer and ask the right
+questions so everyone asks well Aaron is
+my cash practice covered by HIPAA
+because it's not you know there's no
+insurance
+Insurance regulates a lot of the rules
+but HIPAA privacy and security rules
+also impact whether you're a cash
+practice a telehealth business a
+brick-and-mortar whatever it is so I
+want to go over what is HIPAA okay
+because like I said I get a ton of these
+questions and people don't really
+understand what it is so there's a lot
+of infamous information so my curiosity
+all started when my brother who's also
+in private practice as a marriage and
+family counselor and psychotherapist had
+some questions and was telling me about
+what people were saying when he's in
+Colorado so things are different among
+different professions here's what HIPAA
+really is I'm gonna read this for you
+HIPAA is the Health Insurance
+Portability and Accountability Act of
+1996 so the year I graduated from Duke
+and it was primarily aimed at providing
+workers employees with an easier way to
+continue their healthcare insurance
+coverage when they change jobs okay an
+area of special consideration was a
+transfer or portability of patient
+records the easiest way to make data
+transfers is electronically and the most
+common way is via
+unfortunately email is not a secure form
+of communication so legislator
+legislatures added appropriate language
+to ensure the confidentiality of patient
+information when it was stored or sent
+electronically and this became the first
+legislation to address email
+confidentiality HIPAA is about patient
+confidentiality in electronic format
+it's not really about how do we talk
+about them in the elevator how do we
+talk about them in the office et cetera
+that's not really the main purpose of
+HIPAA okay so if you understand that
+then we can understand the extracted
+information because there are privacy
+rules and guidelines based on your
+profession like the APTA and your
+state's rules well your state law will
+tell you about how to maintain privacy
+and best practices so there is a really
+interesting worksheet that CMS provides
+about HIPAA bellick is my practice a
+covered entity and this is one of my
+first questions well am i a covered
+entity and so this is really complicated
+so I'm gonna kind of go really slowly
+but the flowsheet goes something like
+this and you can find the flow sheet in
+the link below the video there's a link
+to my blog post you can go and read
+through this so while we're here just
+remember don't forget to subscribe and
+use the notification bell to subscribe
+and let your friends know about this
+video and comment you're number one take
+away your question below okay so the
+flow sheet from CMS it is really simple
+it's like do you does the person or
+business or agency like my my clinic
+bill or receive payment for healthcare
+in normal course of business yes okay
+great so does this person business or
+agency transmit covered transactions
+electronically okay in my case we don't
+transmit covered transactions so in your
+case if you're in network and you have a
+Clearing House or you send patient
+records to insurance companies for
+reimbursement then the answer would be
+yes okay now if you answered no you're
+not a covered healthcare provider and
+not
+entity but that's not the whole story
+okay so that's just for like the
+security rule and not the privacy rule
+does it I hope that's making sense so
+there's two rules in HIPAA there's a
+security and a privacy privacy is that
+the privacy peace security is how I
+manage the documents okay
+there are certain standard transactions
+like claims and encounter information
+payment and remittance advice claims
+status eligibility like health care
+eligibility enrollment and disenrollment
+request to obtain referral
+certifications and authorizations
+coordination of benefits and premium
+payments if you're doing those then
+you're a hypocrite entity in the privacy
+and security rule if like we are a cash
+practice you're not doing those that
+still means you need to ensure that
+you're abiding by the privacy standards
+which means to have a a HIPPA statement
+of privacy practices available to your
+patients whether it's through their
+intake forms or in your clinic waiting
+room or on your website and we have that
+in all of those places in our patient
+sign as part of their intake that
+they're aware that they've received
+access to this does that make sense so
+certain standard transactions are these
+transactions I've said that we do but if
+you do them on fax or by a phone call
+that doesn't require it to be a HIPAA
+covered transaction because it's about
+taking these actions and transmitting
+patient data electronically so if you're
+doing it via email all right so it says
+certain standard transactions plus an
+electronic electronic transmission of
+data it equals a covered entity status
+HIPAA Privacy Rule allows healthcare
+providers to communicate with their
+patients electronically via email
+provided you establish reasonable
+safeguards when doing so so you can
+communicate with your patients via email
+like everyone does it you can do it okay
+you just need to provide reasonable
+safeguards such things as don't go out
+and send a mass email to all of your
+patients and have them all see seed
+that's not or even BC seeing what you
+need to do is use some kind of software
+like active campaign where you're taking
+a reasonable precaution because what
+that does is they only send one email to
+each customer but allows you to send
+bulk messages to individuals makes sense
+if you were a physical therapist in
+private practice and you accept payment
+by cash check debit or credit cards
+these forms of billing do not make you a
+covered entity because you're not
+transmitting electronic data to someone
+else like a Blue Cross Blue Shield for
+payment in reimbursement yes there's an
+electronic transmission of a credit card
+data but that doesn't mean that you're a
+hypocrite entity if you're a physical
+therapist in private practice and you
+live in a state with limited direct
+access and you fax your patients
+physician the plan of care to sign
+you're not entering into one of these
+certain standard transactions and doing
+so does not make you a covered entity
+here's the thing whether you're a
+covered entity or not it's not the end
+of the world what you need to know
+really is that HIPAA is about
+transmitting data electronically in the
+electronic transmission on faxes
+considered analog telephone is
+considered analog by voice is considered
+analog if I do it electronically it
+depends on the type of conversation I'm
+having am I trying to get claims am I
+basically going going in communicating
+with the health insurance company right
+if I am trying to communicate with a
+patient's physician I think I'm gonna
+pick up the phone and call them I don't
+need like a special anything that's kind
+of assumed but remember like I said I'm
+not the lawyer and I'm not the one
+that's setting up your standards of
+practice and privacy practices you need
+to do that with a health care lawyer our
+practice is a cash-based physical
+therapy practice and does not fit the
+definition of a covered entity ok HIPAA
+consent forms we don't so we don't have
+people consign HIPAA consent forms we
+give our patients their patient data we
+don't give it directly to insurance
+if insurance company does request it we
+give it directly to the patient and it's
+the patient's conversation with the
+insurance company okay are you following
+me
+I'm gonna go slow cuz this is not the
+easiest stuff okay after going back and
+forth with my healthcare lawyer a few
+times since I first looked up hip
+information and I wrote in a blog
+article that's linked to below we are
+not a covered entity and we didn't sign
+up ba a with anyone I realized well
+because not all the information was on
+the CMS website okay it said I wasn't a
+covered entity but I really was under
+the privacy standard but not the
+security standard and so even the CMS
+website doesn't have and make that
+distinction so we have a BIA with like
+Google Google with Google because we use
+Google Drive for a business we have a BA
+a with intake q because we use them for
+our scheduling and our intake forms and
+who else might we have if we did
+electronic faxes you use one of those
+certain faxes we don't send faxes and we
+used to do it analog faxes anyways so
+you gotta understand that in order to
+use something like zoom if I want a a
+HIPAA compliant zoom portal I have to
+get the Enterprise Edition which is
+about $200 but I can go and pay an extra
+$10 to intake Q and get a HIPAA
+compliant to health for 10 bucks
+so because zoom won't sign the BAA
+because they don't want to take the
+responsibility but someone who's already
+got a HIPAA compliant portal will likely
+do that so we still like I said we used
+to use analog fax and we don't send
+patient notes to insurance companies we
+send them directly to patients our
+lawyer also recommended everyone sign
+that they've received our HIPAA notice
+of privacy practices and we have
+patients who give us testimonials for us
+to use like video written that we put on
+our website etc sign a photo and video
+release form okay that's outside of
+HIPAA but is more of a privacy thing if
+they leave it on a Google
+view or Facebook review or Yelp I don't
+go after them to have them sign it
+because they've left it publicly does
+that make sense so this is how we comply
+with the rules there's a lot more to it
+but what I'd love to know is what's most
+confusing for you about HIPAA leave it
+in the comments below I think the number
+one thing that scares people really is
+the fact that you feel like okay if I
+don't know this then Big Brother's gonna
+come and get me and I'm gonna get in
+trouble
+right but really this rule is written
+for portability of patient information
+when they change jobs and if you put in
+your best practices like you have a lock
+on the laptop you have a password to get
+into the laptop you have a lock on your
+door and you have patient files in a
+cabinet and someone breaks in you've
+done your best you know like you've put
+in reasonable controls to keep people
+from taking the information right now
+what's suck if someone broke in but
+you've done your best and that's what
+you need to worry about is do your best
+okay so click on the link below to get
+all the details go read the blog post
+that I've written I spent a lot of time
+writing it and very clear read it a
+couple times watch the video and then
+comment your number one question below
+like and share this video and subscribe
+using the bell and I'll see you guys on
+the next video
+thanks so much
+[Music]

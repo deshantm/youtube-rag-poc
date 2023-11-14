@@ -1,0 +1,1084 @@
+what's up it's aaron um let me make this
+a little bigger hey so this is a
+training on how to convert a webinar jam
+live webinar into an evergreen
+ever webinar
+[Music]
+[Applause]
+my name is aaron lebauer and if you're
+watching this on social media somewhere
+this is exactly what you're going to
+learn is how we take our live webinars
+and turn them into evergreen webinars
+we've made actually
+more got more patients more money more
+clients through evergreen webinars than
+we do live live convert really well
+and if you're watching this on youtube
+somewhere be sure you hit the
+the like subscribe and notification bell
+or maybe it's the like button here
+subscribe and the little notification so
+you get access to more of those videos
+um
+if you're on my team because primarily
+i'm making this for a team training is
+this how we're going to take an
+evergreen
+a live webinar and turn into an
+evergreen webinar inside web on our gym
+so
+let's um
+let's get back to it we're going to log
+into webinarjam so if you don't have
+webinar jam and you're watching this
+there should be a link below to get a
+good deal on webinar jam through our
+affiliate link if you're on my team and
+you need access send me a message and
+we'll make sure we get access through
+lastpass
+so log in
+we're going to go in we've got two
+options these are live webinars these
+are evergreen webinars we can go
+straight to
+everwebinar
+these are the evergreen webinars that we
+have
+we want to create add a webinar
+and uh what what it does is every
+webinar can create a webinar from a
+previous live webinar so this is the
+webinar that we're gonna um this was the
+live one we're gonna make this evergreen
+if you haven't done one live
+um through webinar jam
+um
+you can still create a new ever webinar
+but i recommend doing it live through
+webinar jam first
+prove that it works and then put it on
+evergreen so here's how we're going to
+do that we are going to
+do add a webinar
+and i'm going to use a previous webinar
+jam live session i'm going to go here
+and choose it the telehealth
+no it's not that one it's at the bottom
+the
+labour pt back pain webinar select the
+session
+and go up and confirm and what it's
+going to do is it's going to load in all
+of the registration details registration
+page
+all the comments and all the things the
+only thing it doesn't load in are some
+of the integrate well it does an
+integration we have to update some of
+the integrations but
+i'll show you that in a second confirm
+there's a couple things it doesn't load
+in but um it loads in 90 of it so now
+basic settings
+okay um so the webinar name isn't uh
+back pain is a tvd webinar i'm gonna
+just call this like
+um
+this is private this is for us ever
+ever webinar
+um that's the august one here's the
+webinar title this is public facing
+this is public facing don't list your
+webinar like this is on
+the webinar jams thing i don't ever list
+it because it doesn't ever get any um
+any traffic i mean this is one that we
+could list for other people because it's
+about uh
+back pain um
+so
+self-help personal finance money i mean
+i
+rarely do these and it's really not that
+important health and beauty
+so i just put don't list
+and we have to click confirm after each
+change webinar presenters just make sure
+it's dr aaron lebauer
+so that's fine
+next schedules not configured so we have
+to create a schedule for this webinar so
+what i'm going to do is i did this on a
+tuesday
+at 6 00 p.m so what i'm going to do is
+i'm going to make this just available
+every
+day
+um at 6 00 pm actually every
+you know let's just call this every day
+at 6 pm
+add
+and then enable instant watch
+or late attendance we're not going to do
+that or just in time so this means they
+can see hey watch the replay now
+and this is enabled just in time so the
+enable just in time is
+is great because people always feel like
+it's live
+more people attend the replays than the
+lives but more people will convert from
+a live session so next available session
+every 15 minutes
+um
+hide night time schedules is on so if
+someone's browsing late at night like
+why would i be live late at night
+so i would make this like 10 p.m um to 7
+00 a.m so any time between 10 p.m and 7
+a.m it'll feel like hey the next webinar
+is coming up
+display the next three immediate ones so
+it'll be like
+you know so what this will show is it'll
+show just in time webinar starting in 15
+minutes it'll show tonight at six and
+then tomorrow at six
+um
+you can block days you can block
+holidays i i don't know why they have it
+i don't have it on here but i always
+block july 4th
+because that's um
+oops
+that is a
+national holiday in the united states
+for some reason
+you gotta go forward to july
+but it won't let me somehow won't let me
+do it
+july
+why won't it let me add july 4th
+august
+july 4th maybe you have to go backwards
+and you can block any day there we have
+to in order to go forward i have to
+click confirm
+and then we go to registration page
+design
+really not going to change anything
+about these
+you can see this is what it is it worked
+really well
+i'm not going to change anything just
+make sure that this doesn't say
+live so i can search to make sure like
+this doesn't say live on it and it
+doesn't
+so there's nothing i'm going to change
+here
+i'm just going to cancel on edit exit
+confirm registration form design we have
+to change that we have to change these
+fields free to register password we
+don't have to change anything here we
+just have to kind of click through it
+notifications
+um okay this is where you can choose
+ever webinar notification or your own
+autoresponder gateway
+like for right now
+for the clinic stuff it's every webinar
+if you're watching this and you're on my
+team and you are
+reproducing a um
+like doing an evergreen webinar from a
+consulting business uh whoever webinar
+we would choose this one
+it's set up to send from aaron at labour
+consulting but right now
+through the clinic i don't want clinic
+people getting aaron at labour
+consulting messages so we're just going
+to keep it in the ever webinar mail
+because it'll it'll still show it's from
+me it but it just comes from a different
+uh server not our not our own
+um
+but if it is like a cache pd blueprint
+webinar uh new patients or profits
+webinar and we're making evergreen
+choose the um your own smtp gateway but
+for the clinic ones we'll just continue
+to use every webinar mail unless i
+figure out that we can do two different
+ones
+reminder notifications
+these are you see how it'll still be
+sent from
+um dr aaron labaur at webinar info
+if i chose my
+own
+it it's from lebauer consulting but
+that's why i don't want my clinic uh
+people to see lebar consulting they
+should see lebar pt but i think we can
+only have one of these here and we run
+more people
+through um not through the clinic but
+through
+yeah through the consulting so we'll
+just leave that
+all these things we don't really need to
+change them at all
+this is what goes out to people
+um because i set it up on the live it's
+all
+um pretty much set it's um like there's
+nothing that we have to change here
+unless we want to change anything but we
+don't
+which is kind of cool
+it's going to be really quick
+integrations
+this is something that we do need to
+update
+so with campaign or pt email engine
+we you see how it's like webinar live
+miss scheduled so there's um ever
+webinar tags so i will open up another
+um
+let me open up another page here
+okay so you just open up uh
+our active campaign or pt email engine
+account um and we're gonna
+run through and i'm gonna find uh the
+automation i'll show you guys how
+to know exactly which
+tags but you don't have to actually open
+this up i'll show you the tags or tags
+already in but i just want to show like
+why
+and
+let's see you can see we've got
+the bauer pt every webinar um le bauer
+pt
+webinar follow-up
+um
+there's a webinar welcome
+so you can see that i have these
+triggered
+using this lebowrpt everwebinar tag
+so what we have to do here in
+activecampaign then is you don't have to
+open up pt email engine or active
+campaign at all we just have to
+integrate with it
+so if they register
+we need to go over here and click add
+tag
+and it needs to be
+we
+unfortunately can't search we have to
+scroll
+it needs to be labour
+pt
+ever webinar and create integration rule
+so i have to replace each of these so
+you'll see like if it's in the
+consulting business
+it should be
+very similar where it says uh
+um launch webinar
+live it would the alternate tag will be
+launched web ever webinar live
+so
+we just have to update these so you may
+have to go into our pt email engine
+account to um
+just verify the correct tags um this is
+the most complicated part here so i've
+recreated this one i'm going to recreate
+this one if they attended the
+live webinar
+and add a tag
+i'm going to go down to levauer
+pt every webinar i'm going to do this
+for each one
+of our pt
+ever webinar live okay everywhere create
+the integration rule
+the bauer pt
+mist
+so it's add tag
+the bauer pt
+ever webinar mist
+of our pt every webinar missed
+create integration rule
+in the next one labaur
+pt
+um
+well this is the next one in this is
+evernote webinar replay so
+um
+the bauer pt
+ever webinar replay so what these do is
+these trigger different emails in the
+back end of our system
+the power pt
+ever webinar replay missed live
+um
+the bauer pt webinar scheduled
+when they purchased our products so this
+is um something that'll trigger just to
+know that they've actually for this one
+they've either purchased product or they
+got on the call
+so i need to add
+if they purchase your product
+and
+tag uh we're gonna go down here
+about rpt ever webinar
+and i'm
+maybe don't have that um
+as a uh
+as a tag so i'll show you how we're
+going to fix that
+so it's the i can kind of copy and paste
+this one with our pt
+copy i can go over into pt email engine
+or active campaign
+go to contacts
+click on manage tags
+and then i can paste this in but i don't
+want webinar i wanted to say ever
+webinar scheduled
+ad tags
+and really this is just a tracking one
+for me um
+and it doesn't always
+this part doesn't always work
+why does it seem like that's not working
+either
+there we go let's see
+i think it's just a delay here
+okay i just internet stopped being
+delayed i'm just going to copy this
+paste it here
+type in scheduled
+add tags
+now that just did what it's supposed to
+do
+so now i can go back to
+webinar jam and it's not going to be
+here right away
+it won't be here if i have to go add a
+tag
+with our pt ever webinar it's not there
+so what i have to do is i have to click
+on ok i have to click confirm
+and then to open it back up again
+click on edit and then i can go to if
+they purchased
+add tag
+and then we'll scroll down
+bower pt ever webinar
+it's still not there yet
+see there's the webinar everywhere i'm
+trying to click okay confirm and
+we can just refresh the page it may just
+need to it needs to refresh the
+integration
+so i'll go back in here
+oops that one's confirmed i need to go
+to next
+next oh because i hadn't done the whole
+thing um there we go now on the
+integrations click back on edit
+see i still got something these ever
+webinar ones and i'm going to
+they purchased
+add tag
+now you see how it refreshed everything
+well now rpt every webinar scheduled
+create integration rule
+so good scheduled i need the left early
+i think i need the
+every webinar we got liveness scheduled
+left early replay so there's a left
+early so if they leave before
+and we're gonna choose like one hour
+and zero minutes
+generally
+when we do a we start pitching about 45
+minutes in so we could even say if they
+left before
+45 minutes
+um we're going to add the tag
+lebowrpd every webinar left early
+whatever webinar
+launch automation
+oh and i don't have it either so once
+we're gonna go back over here
+um
+and then we're just gonna
+do this copy paste
+left
+early
+add tags
+all right there we go
+so we just have to go in here click ok
+confirm
+and then i'm going to go back in and see
+if i can get this to
+if they
+leave before
+0 0
+45
+and tag i don't think it's going to do
+it i think we have to go back out again
+yep
+confirm
+and then let me just refresh again
+okay right here
+here
+and go
+there
+and go back to integrations
+and now we can go in here
+and say
+if they leave before 0
+45
+let's add this tag
+there it refreshed and now we go to
+the bauer pt ever webinar left early
+and create the integration rule okay now
+we've got it um so now we have to delete
+these regular webinar ones
+so we have to say delete
+webinar live every webinar
+live so we can delete that one
+webinar missed ever webinar
+i don't have an oh there it is every
+webinar missed so i'm going to delete
+that one
+webinar scheduled
+ever webinar scheduled
+about tv webinar left early every
+webinar left early delete webinar replay
+ever webinar replay so i'm going to
+delete the webinar ones
+and now i'm left with these integrations
+i'm going to click ok and confirm and
+that's it and sometimes there's some
+third-party tracking
+which might be google analytics facebook
+ad tracking etc we don't have it set up
+for this one
+um
+but if there is we just need to that
+should copy over if it doesn't you can
+go to a
+go back to the webinar jam
+version of this and copy and paste that
+over
+and then we go to thank you which is a
+built-in template for a lot of ours
+there'll be a custom page and it should
+just pull the custom page right over a
+clickfunnels page
+um
+survey your registrants so that's
+enabled
+so you just leave that
+thank you page template like there's
+really nothing to change on these
+because it's all customized
+like through code here
+it's just
+this whole this isn't editable because
+it'll
+just pre-fill in what they're doing so
+you just make sure there's nothing on
+here that says live and there's not
+live there's nothing on here that says
+live so it doesn't really
+matter so cancel and exit
+um
+and then here's the
+like live
+uh the simulated live um information
+so there's a couple things that we do
+want to update um
+we don't need to update the countdown
+page webinar room the polls and quizzes
+so sometimes
+how often you're exercising right now
+these are fine
+they will
+um
+sometimes it all if i have a uh
+highlighted announcements or
+um
+that will be up for the whole time i
+think i have like a
+in the live chat box these are it pulls
+in everyone's um
+chat questions
+but sometimes there are
+i think the
+sticky messages so like this is a sticky
+message i put on at the beginning
+sometimes i'll i'll forget to turn this
+off and it'll stay on for like an hour
+but it's like hi welcome to the workshop
+so if we wanted to change it and just
+have that for the first 10 minutes
+instead of 16
+what we do is we highlight this
+copy you paste it in there
+and we do start time you just leave it
+at zero end time you know it doesn't
+need to be 16 minutes we could just put
+you know 12 minutes and then 12 you know
+24 seconds and then we can add it
+and then we have to go and delete this
+one
+16 minutes wasn't too long but sometimes
+i'll forget and it'll be up there for
+the whole hour
+um so we just need to double check that
+one
+display number of attendees we want to
+choose dynamic attendees and we can put
+max at like 55 people
+confirm
+depending on how many people join the
+webinar i would basically just set it at
+the number that's a little bit higher
+than the people that uh
+registered for the webinar um
+variable attendees
+live sales notifications sometimes
+they'll be live sales notifications
+it'll pull through sometimes they're not
+that's not something if it doesn't pull
+them through
+no big deals because the tracking is
+really difficult to get it to work all
+the time because people's phones and all
+that stuff doesn't really track
+purchases or schedules from phones i
+don't have any file handouts
+on this one
+redirects sometimes there'll be two of
+them in here but
+just redirects people at the very end
+and highlighted announcements
+um this is good you could look through
+the chat and sometimes just make sure
+there's nothing in here that like
+is inappropriate or that people are
+saying hey i can't blah blah blah like
+this is terrible
+you know you should you should never say
+that and it happens more in the
+consulting stuff and we can delete those
+if they don't look right but there's
+nothing in here that's um
+that's uh
+inappropriate or anything like that it's
+live sales notifications we click next
+webinar replay recording enabled no
+expiration date if there is an
+expiration date that i set that'll come
+forward allow users submit questions to
+the questions
+we need to make sure this goes to the
+correct email i don't want to come to my
+personal email and the reason that's in
+there is because that has um
+that that that's how i signed up and so
+that's the uh
+the email
+that uh they put in here
+aaron at so this should be aaron
+atlabauerpt.com
+um if it's a consulting uh webinar we're
+gonna put aaron of our consultant right
+there
+and then we're gonna put uh confirm
+allow users submit questions
+webinar replay recording
+let's see
+simulated let me go back here
+countdown page live chat box
+sticky messages
+well users submit questions the chat box
+will be disabled so replay visitors not
+be able to submit their questions i'm
+let's do disabled questions
+um
+we're going to do disable questions
+and then we're going to finish
+and then it's ready
+and now
+now what we have to do
+there's two other things to do
+is um
+these are advanced so that's the basic
+version the advanced version and there's
+two things to do here
+number one
+is to take this um
+code
+and put this on the thank you page
+um
+for after people schedule or
+buy so this code goes on the thank you
+page we have to enter in like a price if
+it's a call i generally enter in a one
+but a lot of times that tracking doesn't
+really work so
+it doesn't work reliably
+um as many times as i've done it i
+can't get to do work reliably but it
+does work it just not all the time and i
+think a big part of it is because people
+are doing it from their phones these
+days
+and it won't fire the same code
+um so that's one advanced step and
+that's
+where you you just copy this and you go
+paste it and we have to put it in the
+body tag so
+depending on where
+the thank you page is
+or the next page after
+they
+buy or schedule then this code needs to
+be placed in the body tags on that page
+the other advanced thing to do would be
+to
+to make it feel like it's even more
+simulated in live
+what we can do remember here the source
+video um was a previous webinar jam
+session i can download this video and
+host it on amazon s3
+and put it the link to the external file
+here
+but because i imported a previous
+webinar jam session it imported all the
+settings
+and then when i'm done i can go back in
+and i can put a link to
+the um
+i'm just going to cancel that uh i can
+go put a link to the uh
+to the
+video
+and you can host it in a couple
+different places but amazon s3 and we
+have an amazon s3 account um
+for instance
+i believe
+i'm not sure if we're doing it on this
+webinar or not i think so let's see yeah
+so here it is so it's um just hosted and
+the difference is is it makes it so you
+can't pause the video on the replay or
+at least it used to
+but you can use here you can use mp4 you
+oh now you can do youtube videos in
+vimeo pro
+i'm using mp4 hosted somewhere else
+because i don't want it to show up as a
+youtube video or vimeo pro um so that's
+why we're doing it on amazon
+s3
+so the way to do that is we gotta go
+over to webinar jam
+we go to the
+prior webinar we go to your links
+and i'm going to go to replay
+i'm going to choose the session
+and then here's my download button
+here's this is the replay page but this
+is the download replay video
+and i'm going to put it on my
+desktop and i'm going to say labour
+physical
+therapy
+i'm going to actually name it something
+i want people to see
+um
+so i'm going to say fix
+your
+back pain in three easy steps
+labour physical therapy
+um
+online
+workshop
+and then i just save it
+and while it's saving i'm going to open
+another browser window i'm gonna go to
+amazon
+s3
+now if you're working for me you may
+need me to do this part because i don't
+know how to share i haven't set up
+access to this for other people in our
+organization quite yet but you go to
+sign into console
+i'm sure there's a way to do that and i
+can figure it out
+and it's probably the difference between
+these two things so i'm a root user
+and this is probably we just have to set
+you up as this
+and then we're going to type in the
+character scene on the image below
+gosh i can't tell what that is
+d h rfswdh like that
+password
+and that didn't like it my password's
+incorrect
+it just autofilled the wrong password
+there we go
+okay
+now i need to go in so amazon is a lot
+of services
+okay
+um we need to
+contribute i don't need to do any of
+these things
+um recently visited
+all services
+here it is i need to go to storage s3
+storage there's so many things to do in
+here
+and then we're going to go to
+the healthy just ever webinars labour
+so we're gonna we'll choose this one
+every webinar is a blower if you're
+doing uh
+these are other backup folders labour
+consulting ever webinars
+you know um
+yep every webinar click that
+and i'm going to upload my video
+and i have to add the file
+i'm going to go to desktop here it is
+click open
+all right and then i have to set up my
+permissions
+it needs to be
+granted public
+access even though
+there's a thing it's like people need to
+be able to public musical to see this
+otherwise it won't work this is the
+storage class nothing needs to change
+there
+permissions
+um let's see
+yep and then click upload
+and it's going to upload
+upload status so i'm going to pause this
+video until it uploads
+all right there we go
+file uploaded okay so now what we do
+is i click down here
+all right here is the url i have to copy
+this url some right click
+copy
+i want to open it let's say open a new
+incognito window and just make sure that
+it works
+and there it's playing
+okay
+so that's all i need to do i can close
+that and i can go back to webinar jam
+go into every webinar
+go back to edit
+source video
+external video i'm going to paste in my
+url the other thing i have to do is i
+have to
+know exactly how long this video is
+so
+it's 109 28 so i need to come in here
+pause that i need to come in here and
+put it in as one hour
+009 minutes
+28 seconds because that way webinar jam
+will know exactly how long to play this
+video
+and i confirm
+and now i can go all right it's a minute
+1 hour and 9 minutes and 20 seconds
+remember
+when we added that tag that was like if
+they left early before the offer so
+that's where i might need to come back
+in
+and update
+you know if they left early so 45
+minutes for this one's fine um i have uh
+for a couple of webinars
+especially the ones uh
+i do often i'll have an email goes out
+to people they leave early say hey what
+happened here's a link to get back into
+the webinar and that's where that's
+important but we don't need to change
+that now
+and now the ever webinar is set the next
+thing we have to do is take the
+registration link
+copy it
+and update our pretty links so i believe
+in
+the bauer pt blog.com
+i think we have a webinar pretty link in
+uh for consulting
+for all of our consulting we have a um
+some pretty links and we just need to
+update the pre-links
+so i believe let's see if this one
+we have a webinar pretty link here
+and it's waiting a little waiting okay
+let's see free workshop for social media
+mobility for strength
+the bauer pt free online workshop i
+believe this is it
+so pain relief workshops what i'm going
+to do is i'm just going to copy this and
+paste and just verify
+yep this is going to the old one see
+that's expired or that was the live one
+that we did so i need to go back to
+webinar jam i'm going to take this guy
+copy it
+and go back in here um
+there's this free online workshop and
+i'm going to do edit
+and then i'm going to
+paste
+and update
+and then double check and it may be that
+you just come up here you put in webinar
+so in the consulting there'll be one or
+two it's the free webinar or launch
+webinar here
+web
+venar
+um free online workshop free online
+workshop
+free pain workshop so we just need to
+for social media promo
+so i just had two different links
+i need to update that
+and boom
+now they're updated and now it's an
+evergreen webinar and it should update
+any of the links in our um
+automations to get people into the
+webinar because we use these pretty
+links in there
+and then that's all that we need to do
+to convert a webinar jam live webinar
+into an evergreen ever
+webinar you will want to make sure that
+you have um
+an email automation account where you
+can send
+people uh automatically into a launch
+sequence so you can see here we have an
+ever webinar launch sequence
+um and i may or may not have activated
+this but i'll show you that we've got
+this is using pt email engine
+and this link in here
+for people to reserve their their spot
+this should be
+one of our
+um
+evergreen links but it's not
+so this one
+what i would do is i come back over
+close that
+i'm going to say
+webinar
+free online workshop so i'm going to
+copy this
+and it's likely that i was putting this
+together and never
+um
+really uh
+i don't think there's anyone in here i
+never institute i never activated this
+and started putting people through here
+but these this is where those pretty
+links um come in handy because i don't
+have to update every email each time i
+just have to update the pretty links
+um
+so i think i
+didn't have this
+updated because we weren't really using
+it
+these were some messages specific to the
+pandemic and
+um but that's how we do it and so those
+if you if you use a pretty link or a
+redirect in your email automations you
+won't have to
+use it in um you won't have to update
+all your email links
+so these all need to be updated
+um and maybe i you know people have
+moved through this because whatever but
+you can see people aren't actively in
+this one
+they are actively in uh
+let me show you um
+here's a launch sequence uh blueprint
+every webinar launch sequence this one
+will have a bunch of people it's got
+5000 people in there automation because
+this is one of the ones i'm currently
+running through the coaching business
+um
+oh and everyone's at the end so you know
+this is one i i used to run through and
+like we're not actually running them
+through this now but there's someone
+right there
+um
+so
+uh you know it's very similar i'd have
+to go back and
+look we've got so many of them that uh
+i don't know them all but that's really
+uh what we have to do is we don't have
+to update the links and all the emails
+we can just update them through our
+pretty link server in wordpress and that
+should update everything over the email
+side
+and that's pretty much how you do it and
+so now
+these links are ready to
+for us to promote on social media
+through email hey go here and
+watch the training
+oh yeah i knew there'd be one or two
+things that i forgot to do so here's
+what i do want to do
+and i have to go back and figure out
+who it is that uh registered or paid but
+when we do do these evergreen webinars i
+do want to
+um
+well actually
+i'm not going to do this for the bauer
+pt webinar because this is one of those
+ones where it's for the clinic and i
+don't want everyone to know hey
+so-and-so just registered for the thing
+but for like the blueprint
+and some of the other programs we will
+take everyone that registered on the
+webinar
+and uh add them as like a
+live sales notification so there's none
+here
+i don't really want that for the clinic
+webinars
+but let's just show you
+for the blueprint one
+what we've done
+is um for anyone that wasn't tracked we
+set up the
+live sales notifications and so you just
+put in the minute uh or approximate
+minute or time and you can find that
+through email or we just kind of start
+putting them in there um in like
+decently spaced um based on
+when their notifications came in
+um and you put in the the the hour the
+time etc and you put in uh it'll say
+josh just enrolled in the cash pd
+blueprint and it'll put up these uh
+notifications and so for the clinic
+we're not going to do that because of
+privacy um but for coaching business you
+can come in and put these you just add
+these in i just got to make sure it
+lines up with a time in the webinar when
+after we make the offer
+and uh sometimes they don't get pulled
+through from the live sometimes like i
+said the uh tracking links don't work
+but it's really cool once you get into
+an evergreen webinar to give the people
+these notifications that people have
+enrolled in your program it's like
+social proof that that's happened as a
+webinar presenter i'll be calling it out
+but that's just one other ninja trick
+that ever webinar allows you to do so by
+the way if you've got this far and uh
+you're watching this and you're not on
+my team and you want to get an
+everwebinar webinar jam account
+there's a link below that should give
+you a
+a discount
+or a two-week free trial to ever webinar
+and webinar jam
+if you're trying to figure out how do i
+set up and send out all these
+follow-up emails i'd be happy to give
+you um
+what like
+28 or 30 something emails a webinar
+welcome sequence and a webinar follow-up
+sequence
+um so that you can plug in and integrate
+with the your webinar jam into the pt
+email engine and pd email engine runs on
+the active campaign
+platform and so by doing that we can
+integrate them both
+and so if you're interested in getting
+all the emails written for you
+and knowing exactly what to say it's pt
+email engine.com just go to the link
+below
+what we'll do is we'll set up an account
+for you
+and waive the 500
+setup fee write all your emails and hand
+over an account that's ready to go um so
+you can integrate it directly with
+webinarjam and sell more
+products and services and help thousands
+of more people
+doing online webinars
+and uh send it by sending them fallout
+messages so
+uh this is aaron lebauer be sure you
+click subscribe hit like notification
+bell and let me know
+um what was most helpful for you about
+this in the comments below i'll see on
+the next video
+[Music]
+[Applause]
