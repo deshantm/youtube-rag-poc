@@ -5,7 +5,6 @@ import os
 # Set up the API key and YouTube channel ID
 api_key = os.environ["GOOGLE_API_KEY"]
 
-'AIzaSyBMPkUCH6LeRJzBEva-FDc64xSf-Zos6Jw'  # Replace with your API key
 channel_id = 'UCrL_KQsmbfWyyUfwRezAEIA'  # Replace with the channel ID
 
 youtube = build('youtube', 'v3', developerKey=api_key)
