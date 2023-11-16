@@ -11,7 +11,7 @@ youtube = build('youtube', 'v3', developerKey=api_key)
 
 def get_video_ids(channel_id):
     video_ids = []
-    request = youtube.search().list(part='id', channelId=channel_id, maxResults=50, type='video')
+    request = youtube.search().list(part='id', channelId=channel_id, type='video', maxResults=5000)
     response = request.execute()
 
     for item in response['items']:
@@ -21,18 +21,25 @@ def get_video_ids(channel_id):
 
 def download_transcripts(video_ids):
     for video_id in video_ids:
+        if video_id in ['SKqdVSxIllE', 'SKqdVSxIllE']:
+            continue
         try:
-            # Get the transcript for each video
+            # Attempt to fetch and save the transcript
             transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
             transcript = transcript_list.find_generated_transcript(['en'])
 
-            # Save the transcript
             with open(f"{video_id}.txt", "w") as file:
                 for line in transcript.fetch():
                     file.write(f"{line['text']}\n")
+
             print(f"Transcript for {video_id} downloaded.")
+            
         except Exception as e:
-            print(f"Could not download transcript for video {video_id}: {str(e)}")
+            # Log the error and continue with the next video
+            print(f"Error for video {video_id}: {e}")
+            continue
+
+
 
 video_ids = get_video_ids(channel_id)
 download_transcripts(video_ids)
